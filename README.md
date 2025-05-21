@@ -34,6 +34,18 @@ coming soon
     - Gaussian Blur: ```GB```
 - Select initial bounding box with mouse (click and drag)
 
+## Citation
+
+```
+@article{karakostas2025enhancing,
+  title={Enhancing visual object tracking robustness through a lightweight denoising module},
+  author={Karakostas, Iason and Mygdalis, Vasileios and Nikolaidis, Nikos and Pitas, Ioannis},
+  journal={The Visual Computer},
+  pages={1--18},
+  year={2025},
+  publisher={Springer}
+}
+```
 
 ## Related repositories
 - [DaSiamRPN](https://github.com/foolwood/DaSiamRPN)
