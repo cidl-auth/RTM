@@ -52,3 +52,6 @@ coming soon
 - [Siamese-RPN-pytorch](https://github.com/songdejia/Siamese-RPN-pytorch)
 - [SiamRPN Pytorch](https://github.com/huanglianghua/siamrpn-pytorch)
 - [GOT-10k toolkit](https://github.com/got-10k/toolkit)
+
+## Acknowledgement
+This work has received funding from European Union’s Horizon 2020 research and innovation programme under grant agreement No 871479 (AERIAL-CORE), and the research project “Energy Efficient and Trustworthy Deep Learning-DeepLET” implemented in the framework of H.F.R.I call “Basic research Financing (Horizontal support of all Sciences)” under the National Recovery and Resilience Plan “Greece 2.0” funded by the European Union-NextGenerationEU (Pr. Number: 016762).
